@@ -1,11 +1,24 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 
 ## Hi there 👋
 I'm Hewan and I'm a Tableau/ Alteryx consultant at the Information Lab
+
+Started learning to code in 2022 (on and off)
+I'm currently working on developing my Python skills
+
+<details>
+<summary>where to find me: </summary>
+linkedin
+tableau public
+microsoft fabric
+</details>
+
+interests:
+films
+rollerskating
+
+
+
 <!--
 **hewanz00/hewanz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
