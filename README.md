@@ -8,15 +8,16 @@ I'm currently working on developing my Python skills
 
 <details>
 <summary>where to find me: </summary>
-linkedin
+<p><a href="(https://www.linkedin.com/in/hewan-zewdu-93794221b/)"> linkedin </a><p>
 tableau public
 microsoft fabric
 </details>
 
-interests:
+<details>
+<summary>interests:</summary>
 films
 rollerskating
-
+</details>
 
 
 <!--
