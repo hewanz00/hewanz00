@@ -1,23 +1,40 @@
+## Hello 👋
+I'm Hewan - nice to meet you :) 
 
-
-## Hi there 👋
-I'm Hewan and I'm a Tableau/ Alteryx consultant at the Information Lab
-
-Started learning to code in 2022 (on and off)
+I started learning to code in 2022 (on and off)
 I'm currently working on developing my Python skills
 
-<details>
-<summary>where to find me: </summary>
-<p>  &#127793 <a href="https://www.linkedin.com/in/hewan-zewdu-93794221b/"> linkedin </a><p>
-<p>  &#127793 <a href="https://www.thedataschool.co.uk/blog/hewan-zewdu/"> the data school </a><p>
-<p>  &#127793 <a href="https://public.tableau.com/app/profile/hewan.zewdu/vizzes"> tableau public </a><p>
-<p>  &#127793 <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/837388"> microsoft fabric </a><p>
-</details>
 
 <details>
-<summary>interests:</summary>
-films
-rollerskating
+<summary>🌸 Skills</summary>
+  
+  <ul style="list-style-type:circle">
+    <li>Tableau</li>
+    <li>Power BI</li>
+    <li>Alteryx</li>
+  </ul>  
+
+</details>
+
+
+<details>
+<summary> 🌸 Interests</summary>
+  <ul style="list-style-type:circle">
+    <li>Data</li>
+    <li>Films</li>
+    <li>Rollerskating</li>
+  </ul> 
+</details>
+
+
+<details>
+  <summary> 🌸 More of me </summary>
+  <ul style="list-style-type:circle">
+    <li><a href="https://www.linkedin.com/in/hewan-zewdu-93794221b/"> linkedin </a></li>
+    <li><a href="https://www.thedataschool.co.uk/blog/hewan-zewdu/"> the data school </a></li>
+    <li><a href="https://public.tableau.com/app/profile/hewan.zewdu/vizzes"> tableau public </a></li>
+    <li><a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/837388"> microsoft fabric </a></li>
+  </ul> 
 </details>
 
 
