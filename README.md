@@ -1,5 +1,5 @@
 ## Hello 💫
-I'm Hewan - nice to meet you :) 
+I'm Hewan
 
 I started learning to code in 2022 (on and off), and I'm currently working on developing my Python skills
 
