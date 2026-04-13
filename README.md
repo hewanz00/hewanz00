@@ -17,16 +17,6 @@ I started learning to code in 2022 (on and off), and I'm currently working on de
 
 
 <details>
-<summary> 🌸 Interests</summary>
-  <ul style="list-style-type:circle">
-    <li>Data</li>
-    <li>Films</li>
-    <li>Rollerskating</li>
-  </ul> 
-</details>
-
-
-<details>
   <summary> 🌸 More of me </summary>
   <ul style="list-style-type:circle">
     <li><a href="https://www.linkedin.com/in/hewan-zewdu-93794221b/"> linkedin </a></li>
