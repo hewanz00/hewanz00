@@ -26,6 +26,8 @@ I started learning to code in 2022 (on and off), and I'm currently working on de
   </ul> 
 </details>
 
+img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
+
 
 <!--
 **hewanz00/hewanz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
